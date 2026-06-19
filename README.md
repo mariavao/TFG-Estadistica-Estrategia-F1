@@ -1,11 +1,7 @@
 # Modelización, Simulación y Optimización de Decisiones Estratégicas en Fórmula 1 Bajo Incertidumbre
 
 **Trabajo de Fin de Grado — Grado en Estadística**
-- Universidad de Sevilla
-- Facultad de Matemáticas
-- Departamento de Análisis Matemático
-- Curso 2025-2026
-
+- Universidad de Sevilla - Facultad de Matemáticas - Departamento de Análisis Matemático
 - **Autora:** María Varela Oyola
 - **Dirigido por:** María Anguiano Moreno
 - **Fecha:** Sevilla, junio de 2026
