@@ -1,12 +1,14 @@
 # Modelización, Simulación y Optimización de Decisiones Estratégicas en Fórmula 1 Bajo Incertidumbre
 
 **Trabajo de Fin de Grado — Grado en Estadística**
-Universidad de Sevilla · Facultad de Matemáticas · Departamento de Análisis Matemático
+Universidad de Sevilla
+Facultad de Matemáticas
+Departamento de Análisis Matemático
 Curso 2025-2026
 
 - **Autora:** María Varela Oyola
 - **Dirigido por:** María Anguiano Moreno
-- **Fecha:** Sevilla, mayo de 2026
+- **Fecha:** Sevilla, junio de 2026
 
 ---
 
@@ -16,21 +18,19 @@ Este Trabajo de Fin de Grado aborda la **modelización jerárquica y la simulaci
 
 El trabajo combina técnicas de estadística y aprendizaje automático —entre ellas regresión Lasso, modelos jerárquicos, estimación de densidad por núcleos (KDE) y métodos de optimización— para estudiar la degradación de neumáticos, la influencia de las condiciones de carrera y el diseño de tácticas óptimas de parada.
 
-> ✏️ *Puedes ampliar este párrafo con 2-3 frases propias sobre tu motivación, pregunta de investigación o principal conclusión; así el README queda con tu voz.*
-
 ## 📂 Contenido del repositorio
 
 | Archivo / carpeta | Descripción |
 |---|---|
-| [`TFG_MVO_FINAL.pdf`](./TFG_MVO_FINAL.pdf) | Memoria completa del TFG |
-| [`Presentacion.pdf`](./Presentacion.pdf) | Presentación utilizada en la defensa |
+| [`tfg.pdf`](./tfg.pdf) | Memoria completa del TFG |
+| [`presentacion.pdf`](./presentacion.pdf) | Presentación utilizada en la defensa |
 | [`codigo.html`](./codigo.html) | Notebook con el código y el análisis (descargar y abrir en el navegador) |
 | [`datos/`](./datos) | Conjuntos de datos utilizados (`.csv`, `.rds`) |
 | [`graficas/`](./graficas) | Gráficas generadas durante el análisis |
 
 ## 👀 Cómo consultarlo
 
-- **Memoria completa:** haz clic en `TFG_MVO_FINAL.pdf` arriba; GitHub la muestra directamente en el navegador.
+- **Memoria completa:** haz clic en `tfg.pdf` arriba; GitHub la muestra directamente en el navegador.
 - **Presentación:** igual que el PDF anterior, se previsualiza al hacer clic.
 - **Código y análisis:** GitHub no renderiza archivos `.html` directamente, así que para verlo con el formato correcto descarga `codigo.html` (botón "Download raw file") y ábrelo con tu navegador. *(Si activas GitHub Pages, añade aquí el enlace directo — ver guía de publicación.)*
 
@@ -40,8 +40,8 @@ R · estadística aplicada · simulación estocástica · optimización
 
 ## 📬 Contacto
 
-- LinkedIn: *[añade aquí el enlace a tu perfil]*
-- Email: *[añade aquí tu correo de contacto, opcional]*
+- LinkedIn: *[www.linkedin.com/in/maría-varela-oyola-b1512b291]*
+- Email: *[mariavao19@gmail.com]*
 
 ---
 
