@@ -1,10 +1,10 @@
 # Modelización, Simulación y Optimización de Decisiones Estratégicas en Fórmula 1 Bajo Incertidumbre
 
 **Trabajo de Fin de Grado — Grado en Estadística**
-Universidad de Sevilla
-Facultad de Matemáticas
-Departamento de Análisis Matemático
-Curso 2025-2026
+- Universidad de Sevilla
+- Facultad de Matemáticas
+- Departamento de Análisis Matemático
+- Curso 2025-2026
 
 - **Autora:** María Varela Oyola
 - **Dirigido por:** María Anguiano Moreno
@@ -40,8 +40,8 @@ R · estadística aplicada · simulación estocástica · optimización
 
 ## Contacto
 
-- LinkedIn: *[www.linkedin.com/in/maría-varela-oyola-b1512b291]*
-- Email: *[mariavao19@gmail.com]*
+- LinkedIn: *www.linkedin.com/in/maría-varela-oyola-b1512b291*
+- Email: *mariavao19@gmail.com*
 
 ---
 
