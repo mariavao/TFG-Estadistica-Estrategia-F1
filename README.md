@@ -24,12 +24,6 @@ El trabajo combina técnicas de estadística y aprendizaje automático —entre 
 | [`datos/`](./datos) | Conjuntos de datos utilizados (`.csv`, `.rds`) |
 | [`graficas/`](./graficas) | Gráficas generadas durante el análisis |
 
-## Cómo consultarlo
-
-- **Memoria completa:** haz clic en `tfg.pdf` arriba; GitHub la muestra directamente en el navegador.
-- **Presentación:** igual que el PDF anterior, se previsualiza al hacer clic.
-- **Código y análisis:** GitHub no renderiza archivos `.html` directamente, así que para verlo con el formato correcto descarga `codigo.html` (botón "Download raw file") y ábrelo con tu navegador. *(Si activas GitHub Pages, añade aquí el enlace directo — ver guía de publicación.)*
-
 ## Herramientas empleadas
 
 R · estadística aplicada · simulación estocástica · optimización
