@@ -12,13 +12,13 @@ Curso 2025-2026
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 Este Trabajo de Fin de Grado aborda la **modelización jerárquica y la simulación estocástica de estrategias de parada en boxes (pit stops) en Fórmula 1** durante el periodo 2018-2024, con el objetivo de analizar y optimizar la toma de decisiones estratégicas en carrera bajo condiciones de incertidumbre.
 
 El trabajo combina técnicas de estadística y aprendizaje automático —entre ellas regresión Lasso, modelos jerárquicos, estimación de densidad por núcleos (KDE) y métodos de optimización— para estudiar la degradación de neumáticos, la influencia de las condiciones de carrera y el diseño de tácticas óptimas de parada.
 
-## 📂 Contenido del repositorio
+## Contenido del repositorio
 
 | Archivo / carpeta | Descripción |
 |---|---|
@@ -28,17 +28,17 @@ El trabajo combina técnicas de estadística y aprendizaje automático —entre 
 | [`datos/`](./datos) | Conjuntos de datos utilizados (`.csv`, `.rds`) |
 | [`graficas/`](./graficas) | Gráficas generadas durante el análisis |
 
-## 👀 Cómo consultarlo
+## Cómo consultarlo
 
 - **Memoria completa:** haz clic en `tfg.pdf` arriba; GitHub la muestra directamente en el navegador.
 - **Presentación:** igual que el PDF anterior, se previsualiza al hacer clic.
 - **Código y análisis:** GitHub no renderiza archivos `.html` directamente, así que para verlo con el formato correcto descarga `codigo.html` (botón "Download raw file") y ábrelo con tu navegador. *(Si activas GitHub Pages, añade aquí el enlace directo — ver guía de publicación.)*
 
-## 🛠️ Herramientas empleadas
+## Herramientas empleadas
 
 R · estadística aplicada · simulación estocástica · optimización
 
-## 📬 Contacto
+## Contacto
 
 - LinkedIn: *[www.linkedin.com/in/maría-varela-oyola-b1512b291]*
 - Email: *[mariavao19@gmail.com]*
