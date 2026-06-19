@@ -20,7 +20,7 @@ El trabajo combina técnicas de estadística y aprendizaje automático —entre 
 |---|---|
 | [`tfg.pdf`](./tfg.pdf) | Memoria completa del TFG |
 | [`presentacion.pdf`](./presentacion.pdf) | Presentación utilizada en la defensa |
-| [`codigo.pdf`](./codigo.pdf) | Notebook con el código y el análisis (descargar y abrir en el navegador) |
+| [`codigo.R`](./codigo.R) | Notebook con el código y el análisis (descargar y abrir en el navegador) |
 | [`datos/`](./datos) | Conjuntos de datos utilizados (`.csv`, `.rds`) |
 | [`graficas/`](./graficas) | Gráficas generadas durante el análisis |
 
